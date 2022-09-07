@@ -3,6 +3,5 @@
 
 ## Steps To Run Project and Start Dev Server:
 
-1. cd client
-2. npm i
-3. npm run start
+1. npm i
+2. npm run start
